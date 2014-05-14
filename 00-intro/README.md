@@ -24,9 +24,9 @@
 
 ### Редакторы
 
-Windows: http://inotai.com/intype/
-Mac: http://www.sublimetext.com/
-С Windows вообще всё сложно, но для наших занятий в пределе хватит и блокнота, просто будет неудобно
+* Windows: http://inotai.com/intype/
+* Mac: http://www.sublimetext.com/
+* С Windows вообще всё сложно, но для наших занятий в пределе хватит и блокнота, просто будет неудобно
 
 
 ### В бой!
