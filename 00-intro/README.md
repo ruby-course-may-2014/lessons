@@ -41,7 +41,7 @@ irb или tryruby.org – ваш самый лучший друг. Давайт
 
 "Batman"
 "Batman".reverse
-"Dmitriy".length
+"Batman".length
 "Batman" * 5
 128.reverse
 128.to_s.reverse
