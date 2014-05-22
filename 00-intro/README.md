@@ -1,3 +1,5 @@
+[Слайды к уроку](https://docs.google.com/presentation/d/1YfCVTJi4TZzSnRDd7LHJXrt7wTs969CYUgts6MMqt_c/pub?start=false&loop=false&delayms=3000).
+
 # Урок 0. Введение в руби
 
 ### Скукота
